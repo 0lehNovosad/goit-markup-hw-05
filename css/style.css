@@ -797,7 +797,7 @@ input:checked + .label-checkbox > .privacy-checkbox {
   border: none;
 }
 
-.modal-btn-icon-checkbox {
+.modal-btn-icon {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
